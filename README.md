@@ -10,3 +10,5 @@
 <p>Password</p>
 <input type="password">
 <button>Login</button>
+</body>
+</html>
